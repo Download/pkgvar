@@ -1,2 +1,2 @@
-# pkgvars
-Move those pesky configuration files to your package.json with pkgvars
+# pkgvar
+Move those pesky configuration files to your package.json with pkgvar
