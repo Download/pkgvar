@@ -54,10 +54,10 @@
     "indirect-cyclic": "@pkg.test.indirect-loop"
   },
   "dependencies": {
-    "object-path": "^0.9.2"
+    "object-path": "^0.11.3"
   },
   "devDependencies": {
     "chai": "^3.4.1",
-    "mocha": "^2.3.4"
+    "mocha": "^3.2.0"
   }
 }
